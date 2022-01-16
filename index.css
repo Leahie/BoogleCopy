@@ -87,11 +87,7 @@ nav{
     text-transform: uppercase
 }
 
-.Logo img{
-    margin:0.5em;
-    border-radius: 0.5em;
-    
-}
+
 
 .MidSection:hover{
     box-shadow: 0 0 0.4em black;
@@ -190,10 +186,7 @@ footer{
     .spacer{
         height:unset;
     }
-    .spacer img{
-        max-width:100%;
 
-    }
     #title{
         text-transform:lowercase;
         max-width:50%;
